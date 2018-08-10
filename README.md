@@ -13,3 +13,11 @@
 ## 用 React 的风格写 Vue 体验如何
 
 **真香！**
+
+## How to run
+
+1. `git clone -b types https://github.com/lcx960324/iview.git`
+2. `cd iview`
+3. `yarn & yarn link`
+4. clone this reop
+5. `yarn link iview & yarn`

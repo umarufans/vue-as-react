@@ -8,8 +8,8 @@
 
 然而，半年以来，我成功实践了 Vue + JavaScript，Vue + TypeScript，Vue + TypeScript + Javascript JSX，就是没有获得过一次良好的 TypeScript JSX 的开发体验😣
 
-2018.8.10，我终于找到了开启 TSX 大门的钥匙！
+**2018.8.10，我终于找到了开启 TSX 大门的钥匙！**
 
 ## 用 React 的风格写 Vue 体验如何
 
-真香！
+**真香！**

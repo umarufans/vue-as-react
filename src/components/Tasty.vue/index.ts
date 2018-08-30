@@ -1,1 +1,1 @@
-export {default} from './Tasty.vue';
+export {default} from './Tasty';

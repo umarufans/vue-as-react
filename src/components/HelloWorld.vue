@@ -33,10 +33,15 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
+import {Button} from 'iview';
 
 @Component
 export default class HelloWorld extends Vue {
   @Prop() private msg!: string;
+
+  public render() {
+    return test as Button< / Button > ;
+  }
 }
 </script>
 
